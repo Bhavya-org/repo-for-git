@@ -1,0 +1,11 @@
+his option uses an installer and is the most straightforward way to get your production site up and running on a Linux server.
+Install Bitbucket Server from a zip or archive file
+
+Linux
+This option requires you to manually install files and configure some system properties. It gives you the most control over the install process. Use this option if there isn't an installer for your operating system.
+Run Bitbucket in a Docker container
+
+Bitbucket and Docker
+This option gets Bitbucket up and running in no time using a preconfigured Docker image.
+
+Atlassian supports running Bitbucket in a Docker
